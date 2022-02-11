@@ -9,8 +9,8 @@ import (
 	"math/big"
 
 	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 // Params binder of `Params` contract.

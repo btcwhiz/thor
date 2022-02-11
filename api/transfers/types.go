@@ -7,9 +7,9 @@ package transfers
 
 import (
 	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/vechain/thor/api/events"
-	"github.com/vechain/thor/logdb"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/api/events"
+	"github.com/BestSilverTiger/thor/logdb"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 type LogMeta struct {

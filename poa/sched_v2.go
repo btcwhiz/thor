@@ -11,7 +11,7 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 // SchedulerV2 to schedule the time when a proposer to produce a block.

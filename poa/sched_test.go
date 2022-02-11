@@ -10,9 +10,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/poa"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/poa"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 var (

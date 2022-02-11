@@ -11,9 +11,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/pkg/errors"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/co"
-	"github.com/vechain/thor/comm/proto"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/co"
+	"github.com/BestSilverTiger/thor/comm/proto"
 )
 
 func (c *Communicator) sync(peer *Peer, headNum uint32, handler HandleBlockStream) error {

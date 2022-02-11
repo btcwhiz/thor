@@ -3,10 +3,10 @@ package debug
 import (
 	"fmt"
 
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/thor"
 
 	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/vechain/thor/vm"
+	"github.com/BestSilverTiger/thor/vm"
 )
 
 type TracerOption struct {

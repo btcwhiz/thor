@@ -17,8 +17,8 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/vechain/go-ecvrf"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 // Header contains almost all information about a block, except block body.

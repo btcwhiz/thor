@@ -12,9 +12,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/stackedmap"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/stackedmap"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 const (

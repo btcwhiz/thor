@@ -9,8 +9,8 @@ import (
 	"math/big"
 
 	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 // Account is the Thor consensus representation of an account.

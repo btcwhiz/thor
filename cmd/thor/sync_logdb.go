@@ -13,11 +13,11 @@ import (
 
 	"github.com/pkg/errors"
 	"github.com/pmezard/go-difflib/difflib"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/chain"
-	"github.com/vechain/thor/logdb"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/chain"
+	"github.com/BestSilverTiger/thor/logdb"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
 	"gopkg.in/cheggaaa/pb.v1"
 )
 

@@ -11,10 +11,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/pkg/errors"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 const (

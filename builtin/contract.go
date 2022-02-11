@@ -9,9 +9,9 @@ import (
 	"encoding/hex"
 
 	"github.com/pkg/errors"
-	"github.com/vechain/thor/abi"
-	"github.com/vechain/thor/builtin/gen"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/abi"
+	"github.com/BestSilverTiger/thor/builtin/gen"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 type contract struct {

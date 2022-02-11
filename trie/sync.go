@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/thor"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

@@ -10,10 +10,10 @@ import (
 	"math"
 
 	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/chain"
-	"github.com/vechain/thor/logdb"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/chain"
+	"github.com/BestSilverTiger/thor/logdb"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 type LogMeta struct {

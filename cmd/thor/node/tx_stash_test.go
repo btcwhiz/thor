@@ -15,8 +15,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/storage"
-	"github.com/vechain/thor/genesis"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/genesis"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 func newTx() *tx.Transaction {

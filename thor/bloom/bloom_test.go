@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/thor/bloom"
+	"github.com/BestSilverTiger/thor/thor/bloom"
 )
 
 func TestBloom(t *testing.T) {

@@ -11,9 +11,9 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/pkg/errors"
-	"github.com/vechain/thor/api/utils"
-	"github.com/vechain/thor/chain"
-	"github.com/vechain/thor/logdb"
+	"github.com/BestSilverTiger/thor/api/utils"
+	"github.com/BestSilverTiger/thor/chain"
+	"github.com/BestSilverTiger/thor/logdb"
 )
 
 type Events struct {

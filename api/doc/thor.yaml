@@ -4,7 +4,7 @@ info:
   description: |
     RESTful API to access Dexio Network
 
-    [Project Home](https://github.com/vechain/thor)
+    [Project Home](https://github.com/BestSilverTiger/thor)
   license:
     name: LGPL 3.0
     url: 'https://www.gnu.org/licenses/lgpl-3.0.en.html'

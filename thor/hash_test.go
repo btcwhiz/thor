@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/ethereum/go-ethereum/crypto/sha3"
-	"github.com/vechain/thor/blake2b"
+	"github.com/BestSilverTiger/thor/blake2b"
 )
 
 func BenchmarkKeccak(b *testing.B) {

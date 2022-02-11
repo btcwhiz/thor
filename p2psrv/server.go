@@ -17,9 +17,9 @@ import (
 	"github.com/ethereum/go-ethereum/p2p/discover"
 	"github.com/ethereum/go-ethereum/p2p/nat"
 	"github.com/inconshreveable/log15"
-	"github.com/vechain/thor/cache"
-	"github.com/vechain/thor/co"
-	"github.com/vechain/thor/p2psrv/discv5"
+	"github.com/BestSilverTiger/thor/cache"
+	"github.com/BestSilverTiger/thor/co"
+	"github.com/BestSilverTiger/thor/p2psrv/discv5"
 )
 
 var log = log15.New("pkg", "p2psrv")

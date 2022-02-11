@@ -10,7 +10,7 @@ import (
 	"errors"
 
 	ethabi "github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 // ABI holds information about methods and events of contract.

@@ -1,10 +1,10 @@
 package poa
 
 import (
-	"github.com/vechain/thor/builtin"
-	"github.com/vechain/thor/builtin/authority"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/builtin"
+	"github.com/BestSilverTiger/thor/builtin/authority"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 // Candidates holds candidates list in memory, and tends to be reused in PoA stage without querying from contract.

@@ -7,15 +7,15 @@ package builtin
 
 import (
 	"github.com/pkg/errors"
-	"github.com/vechain/thor/abi"
-	"github.com/vechain/thor/builtin/authority"
-	"github.com/vechain/thor/builtin/energy"
-	"github.com/vechain/thor/builtin/gen"
-	"github.com/vechain/thor/builtin/params"
-	"github.com/vechain/thor/builtin/prototype"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/xenv"
+	"github.com/BestSilverTiger/thor/abi"
+	"github.com/BestSilverTiger/thor/builtin/authority"
+	"github.com/BestSilverTiger/thor/builtin/energy"
+	"github.com/BestSilverTiger/thor/builtin/gen"
+	"github.com/BestSilverTiger/thor/builtin/params"
+	"github.com/BestSilverTiger/thor/builtin/prototype"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/xenv"
 )
 
 // Builtin contracts binding.

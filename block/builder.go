@@ -6,8 +6,8 @@
 package block
 
 import (
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 // Builder to make it easy to build a block object.

@@ -10,9 +10,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/genesis"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/genesis"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 func TestTxObjMap(t *testing.T) {

@@ -13,9 +13,9 @@ import (
 	"math/big"
 
 	sqlite3 "github.com/mattn/go-sqlite3"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 // the key to last written block id.

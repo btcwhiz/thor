@@ -9,10 +9,10 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/thor"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 func TestBlockRef(t *testing.T) {

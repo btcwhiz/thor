@@ -16,7 +16,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 // blocklist is a address list contains addresses that are blocked.

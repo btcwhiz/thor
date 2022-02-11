@@ -10,9 +10,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 func TestParamsGetSet(t *testing.T) {

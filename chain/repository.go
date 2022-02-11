@@ -9,12 +9,12 @@ import (
 	"sync/atomic"
 
 	"github.com/pkg/errors"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/co"
-	"github.com/vechain/thor/kv"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/co"
+	"github.com/BestSilverTiger/thor/kv"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 const (

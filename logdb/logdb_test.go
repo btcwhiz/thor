@@ -13,10 +13,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/block"
-	logdb "github.com/vechain/thor/logdb"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/block"
+	logdb "github.com/BestSilverTiger/thor/logdb"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 func newTx() *tx.Transaction {

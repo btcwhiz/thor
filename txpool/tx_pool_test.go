@@ -15,13 +15,13 @@ import (
 	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/inconshreveable/log15"
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/genesis"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
-	Tx "github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/genesis"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
+	Tx "github.com/BestSilverTiger/thor/tx"
 )
 
 const LIMIT = 10

@@ -12,12 +12,12 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	ethparams "github.com/ethereum/go-ethereum/params"
 	"github.com/pkg/errors"
-	"github.com/vechain/thor/abi"
-	"github.com/vechain/thor/chain"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
-	"github.com/vechain/thor/vm"
+	"github.com/BestSilverTiger/thor/abi"
+	"github.com/BestSilverTiger/thor/chain"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
+	"github.com/BestSilverTiger/thor/vm"
 )
 
 // BlockContext block context.

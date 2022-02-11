@@ -6,8 +6,8 @@
 package builtin
 
 import (
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/xenv"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/xenv"
 )
 
 const (

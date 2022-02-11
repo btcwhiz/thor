@@ -7,8 +7,8 @@ package builtin
 
 import (
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/xenv"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/xenv"
 )
 
 func init() {

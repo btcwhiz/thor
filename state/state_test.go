@@ -12,8 +12,8 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 func TestStateReadWrite(t *testing.T) {

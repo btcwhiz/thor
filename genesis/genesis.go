@@ -6,11 +6,11 @@
 package genesis
 
 import (
-	"github.com/vechain/thor/abi"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/abi"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 // Genesis to build genesis block.

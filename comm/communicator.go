@@ -16,14 +16,14 @@ import (
 	"github.com/ethereum/go-ethereum/event"
 	"github.com/ethereum/go-ethereum/p2p"
 	"github.com/inconshreveable/log15"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/chain"
-	"github.com/vechain/thor/co"
-	"github.com/vechain/thor/comm/proto"
-	"github.com/vechain/thor/p2psrv/discv5"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
-	"github.com/vechain/thor/txpool"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/chain"
+	"github.com/BestSilverTiger/thor/co"
+	"github.com/BestSilverTiger/thor/comm/proto"
+	"github.com/BestSilverTiger/thor/p2psrv/discv5"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
+	"github.com/BestSilverTiger/thor/txpool"
 )
 
 var log = log15.New("pkg", "comm")

@@ -13,12 +13,12 @@ import (
 
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/vechain/go-ecvrf"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/chain"
-	"github.com/vechain/thor/genesis"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/chain"
+	"github.com/BestSilverTiger/thor/genesis"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 func TestSeeder_Generate(t *testing.T) {

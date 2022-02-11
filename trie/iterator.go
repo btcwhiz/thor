@@ -22,7 +22,7 @@ import (
 	"errors"
 
 	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 // Iterator is a key-value trie iterator that traverses a Trie.

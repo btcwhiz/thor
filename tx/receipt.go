@@ -9,8 +9,8 @@ import (
 	"math/big"
 
 	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/trie"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/trie"
 )
 
 // Receipt represents the results of a transaction.

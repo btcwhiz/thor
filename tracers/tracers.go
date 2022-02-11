@@ -21,7 +21,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/vechain/thor/tracers/internal/tracers"
+	"github.com/BestSilverTiger/thor/tracers/internal/tracers"
 )
 
 // all contains all the built in JavaScript tracers by name.

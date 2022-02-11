@@ -9,8 +9,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/chain"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/chain"
 )
 
 func TestBlockReader(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 func TestFeatures(t *testing.T) {

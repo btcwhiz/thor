@@ -6,9 +6,9 @@
 package muxdb
 
 import (
-	"github.com/vechain/thor/kv"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/trie"
+	"github.com/BestSilverTiger/thor/kv"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/trie"
 )
 
 // individual functions of trie.DatabaseXXXEx interface.

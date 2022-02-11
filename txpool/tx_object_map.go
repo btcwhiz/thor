@@ -9,8 +9,8 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 // txObjectMap to maintain mapping of tx hash to tx object, and account quota.

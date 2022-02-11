@@ -9,7 +9,7 @@ import (
 	"bytes"
 
 	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/vechain/thor/tx"
+	"github.com/BestSilverTiger/thor/tx"
 )
 
 // Raw allows to partially decode components of a block.

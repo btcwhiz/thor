@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/vechain/thor/thor"
+	"github.com/BestSilverTiger/thor/thor"
 )
 
 //Event represents tx.Event that can be stored in db.

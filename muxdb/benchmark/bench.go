@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/vechain/thor/kv"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/trie"
+	"github.com/BestSilverTiger/thor/kv"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/trie"
 )
 
 const (

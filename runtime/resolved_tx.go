@@ -10,11 +10,11 @@ import (
 
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/pkg/errors"
-	"github.com/vechain/thor/builtin"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
-	"github.com/vechain/thor/xenv"
+	"github.com/BestSilverTiger/thor/builtin"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
+	"github.com/BestSilverTiger/thor/xenv"
 )
 
 // ResolvedTransaction resolve the transaction according to given state.

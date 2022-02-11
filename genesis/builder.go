@@ -9,13 +9,13 @@ import (
 	"math"
 
 	"github.com/pkg/errors"
-	"github.com/vechain/thor/block"
-	"github.com/vechain/thor/muxdb"
-	"github.com/vechain/thor/runtime"
-	"github.com/vechain/thor/state"
-	"github.com/vechain/thor/thor"
-	"github.com/vechain/thor/tx"
-	"github.com/vechain/thor/xenv"
+	"github.com/BestSilverTiger/thor/block"
+	"github.com/BestSilverTiger/thor/muxdb"
+	"github.com/BestSilverTiger/thor/runtime"
+	"github.com/BestSilverTiger/thor/state"
+	"github.com/BestSilverTiger/thor/thor"
+	"github.com/BestSilverTiger/thor/tx"
+	"github.com/BestSilverTiger/thor/xenv"
 )
 
 // Builder helper to build genesis block.

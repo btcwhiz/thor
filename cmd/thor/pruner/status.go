@@ -8,7 +8,7 @@ package pruner
 import (
 	"encoding/json"
 
-	"github.com/vechain/thor/muxdb"
+	"github.com/BestSilverTiger/thor/muxdb"
 )
 
 type status struct {
